@@ -14,7 +14,7 @@
 > Set sharing to "Anyone with the link can view".
 > Test the link in incognito/private mode before submitting.
 
-**Video Link**: [Paste your personal Gmail Google Drive link here]
+**Video Link**: [RPReplay_Final1778091673.mov]
 
 **Video filename**: `[YourStudentID]_Assignment3_Synchronization.mp4`
 
