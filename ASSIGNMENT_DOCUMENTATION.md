@@ -14,9 +14,9 @@
 > Set sharing to "Anyone with the link can view".
 > Test the link in incognito/private mode before submitting.
 
-**Video Link**: [RPReplay_Final1778091673.mov] 
-**Video filename**: `[YourStudentID]_Assignment3_Synchronization.mp4`
-
+**Video Link**: [[]](https://drive.google.com/file/d/1pp1NnLNv62U_6Po967p2DIp2Q0Xf-TG2/view?usp=sharing) 
+**Video filename**: `[`[
+](https://drive.google.com/drive/folders/18OniVAVfiV-W5NMMi9CABAKi3aejUsnp?usp=share_link)
 **Verification**:
 - [ ] Link is accessible (tested in incognito mode)
 - [ ] Video is 3-5 minutes long
