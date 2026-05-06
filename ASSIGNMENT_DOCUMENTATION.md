@@ -217,7 +217,7 @@ This ensures that only a limited number of threads run at the same time, improvi
 
 ---
 ## Part 4: Testing and Verification (2 marks)
-تمام، هذا حل كامل وجاهز للنسخ 👇
+
 
 ---
 
@@ -321,8 +321,8 @@ Synchronization is like having rules for using shared things. Imagine multiple p
 
 ## Part 6: GitHub Repository Information
 
-**Repository URL**:
-
+**Repository URL**: [
+](https://github.com/weaam445/OS-Assignment3-Starter--weaam-ahmed.git)
 
 **Number of commits**:
 4
