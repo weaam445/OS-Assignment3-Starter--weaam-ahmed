@@ -322,7 +322,7 @@ Synchronization is like having rules for using shared things. Imagine multiple p
 ## Part 6: GitHub Repository Information
 
 **Repository URL**: [
-](https://github.com/weaam445/OS-Assignment3-Starter--weaam-ahmed.git)
+(https://github.com/weaam445/OS-Assignment3-Starter--weaam-ahmed.git)]
 
 **Number of commits**:
 4
