@@ -109,9 +109,8 @@ class Process implements Runnable {
     
     @Override
     public void run() {
-        // TODO #3: Acquire CPU semaphore before executing
-        // This ensures only allowed number of processes run simultaneously
-        
+        try{
+            sharedResources.cpuSmaphore.acquire();
         try {
             if (startTime == -1) {
                 startTime = System.currentTimeMillis();
@@ -172,10 +171,12 @@ class Process implements Runnable {
             System.out.println();
             
         } finally {
-            // TODO #4: Release CPU semaphore here
-            // Always release in finally block to prevent deadlocks!
-        }
+            sharedResources.cpuSmaphore.release ();
     }
+        }catch (interruptedException e){
+            System.out.println(color.Red +"x"+name+"semaphore in
+                               }
+                               }
     
     private String createProgressBar(int progress, int width) {
         int filled = (progress * width) / 100;
