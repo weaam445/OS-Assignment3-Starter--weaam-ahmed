@@ -14,8 +14,7 @@
 > Set sharing to "Anyone with the link can view".
 > Test the link in incognito/private mode before submitting.
 
-**Video Link**: [RPReplay_Final1778091673.mov]
-
+**Video Link**: [RPReplay_Final1778091673.mov] 
 **Video filename**: `[YourStudentID]_Assignment3_Synchronization.mp4`
 
 **Verification**:
